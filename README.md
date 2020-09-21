@@ -4,3 +4,5 @@ Soovime luua head süsteemi kodu raamatukogu loomiseks(ala süsteem teeb sulle s
 Oleme hetkel plaaninud, et mõlemad tegelevad kõigega. Otseselt ei ole veel osanud töid ära jagada- ehk teeme seda jooksvalt.
 
 Meie projekti Trello asub siin: https://trello.com/b/VaN93Amz
+
+Testloo fail asub aadressil: https://docs.google.com/document/d/199kRQVmfiWCEekbZMb_QwHe9R5t7NtxeYHLzUeadPQk/edit?usp=sharing
