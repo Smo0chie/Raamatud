@@ -11,4 +11,4 @@ Esialgne veebiadress asub http://smo0chie.pythonanywhere.com/, kuid see on kogua
 
 Programmi tööle saamiseks on vaja luua parem kasutajaliides, nupud (mis töötavad). Esimeseks sammuks on ülaltoodud veebilehe avamine. Sealt edasi oma asjade nägemine ja muud nupud
 
-Esialgne prototüüp raamatud2.0 loeb raamatud faili ja suudab tuvastada triipkoodi. Toiminguid saab läbi viia käsurealt.
+Esialgne prototüüp raamatud_2.0 loeb raamatud faili ja suudab tuvastada triipkoodi. Toiminguid saab läbi viia käsurealt.
