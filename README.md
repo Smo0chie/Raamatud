@@ -6,3 +6,5 @@ Oleme hetkel plaaninud, et mõlemad tegelevad kõigega. Otseselt ei ole veel osa
 Meie projekti Trello asub siin: https://trello.com/b/VaN93Amz
 
 Testloo fail asub aadressil: https://docs.google.com/document/d/199kRQVmfiWCEekbZMb_QwHe9R5t7NtxeYHLzUeadPQk/edit?usp=sharing
+
+Esialgne veebiadress asub http://smo0chie.pythonanywhere.com/, kuid see on koguaeg muutumas. Hetkel probleemiks css lugemine, probleemi lahenedes areneb ka see edasi.
