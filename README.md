@@ -13,3 +13,7 @@ Programmi tööle saamiseks on vaja luua parem kasutajaliides, nupud (mis tööt
 
 Esialgne prototüüp raamatud_2.0 loeb raamatud faili ja suudab tuvastada triipkoodi, mille abil, leiab ja kuvad kasutajale raamatu autori ja pealkirja ning kasutaja saab ise juurde lisada, mis olekus on raamat (loetud, lugemata, poolelei). Raamatuid saab lisada ka käsitsi. Saab vaadata ka ainult failis juba olemasolevaid raamatuid. Prototüüp töötab hetkel vaid käsurealt. Programmi käivitamiseks on vaja järgmisi mooduleid: pandas, opencv, pyzbar ja isbnlib.
 Lisatud ka failid "ribakood.png" ja "raamatukogu.csv", et proovida projekti töötamist.
+
+"raamat_flask_app.py" on tänasega lõpliku funktsionaalsusega rakendus. Rakendust näeb toimimas aadressil https://reenakonn.pythonanywhere.com/ .
+
+Kuid nagu kokkulepe jäi, siis Mirjam teeb hiljem disaini ja parandused kasutajaliideses.
