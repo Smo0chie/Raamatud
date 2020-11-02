@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta content="text/html; charset=ISO-8859-1"
+http-equiv="content-type">
+<link href="kujundus.css" rel="stylesheet" type="text/css"/>
+{% block head %}<title>Minu esimene veebileht</title>{% endblock %}
+</head>
+<body>
+<div id="header">{% block header %}Pealkiri{% endblock %}</div>
+<div id="content">{% block content %}{% endblock %}</div>
+<div id="footer">{% block footer %}Kontakt:{% endblock %}
+</div>
+</body>
+</html>
+
